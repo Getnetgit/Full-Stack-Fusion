@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/full-stack-fusion-app/static/css/main.b8aac08b.css",
-    "main.js": "/full-stack-fusion-app/static/js/main.912020c7.js",
-    "static/media/Plentiful-Pantry_Profile.png": "/full-stack-fusion-app/static/media/Plentiful-Pantry_Profile.bc74685aaab4f1bb14eb.png",
-    "static/media/bootstrap-icons.woff?": "/full-stack-fusion-app/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/Tech-blog-homePage.png": "/full-stack-fusion-app/static/media/Tech-blog-homePage.b843dae0b27a978c9cc1.png",
-    "static/media/bootstrap-icons.woff2?": "/full-stack-fusion-app/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/ProfilePicture.PNG": "/full-stack-fusion-app/static/media/ProfilePicture.2c294c6236cf6ce3b243.PNG",
-    "static/media/resume.pdf": "/full-stack-fusion-app/static/media/resume.9018fb81feeda6ff714d.pdf",
-    "static/media/1.PNG": "/full-stack-fusion-app/static/media/1.819b0bacffd96f7cf3de.PNG",
-    "index.html": "/full-stack-fusion-app/index.html",
-    "main.b8aac08b.css.map": "/full-stack-fusion-app/static/css/main.b8aac08b.css.map",
-    "main.912020c7.js.map": "/full-stack-fusion-app/static/js/main.912020c7.js.map"
+    "main.css": "/full-stack-fusion/static/css/main.2fe95743.css",
+    "main.js": "/full-stack-fusion/static/js/main.9defa59d.js",
+    "static/media/Plentiful-Pantry_Profile.png": "/full-stack-fusion/static/media/Plentiful-Pantry_Profile.bc74685aaab4f1bb14eb.png",
+    "static/media/bootstrap-icons.woff?": "/full-stack-fusion/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/Tech-blog-homePage.png": "/full-stack-fusion/static/media/Tech-blog-homePage.b843dae0b27a978c9cc1.png",
+    "static/media/bootstrap-icons.woff2?": "/full-stack-fusion/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/ProfilePicture.PNG": "/full-stack-fusion/static/media/ProfilePicture.2c294c6236cf6ce3b243.PNG",
+    "static/media/resume.pdf": "/full-stack-fusion/static/media/resume.9018fb81feeda6ff714d.pdf",
+    "static/media/1.PNG": "/full-stack-fusion/static/media/1.819b0bacffd96f7cf3de.PNG",
+    "index.html": "/full-stack-fusion/index.html",
+    "main.2fe95743.css.map": "/full-stack-fusion/static/css/main.2fe95743.css.map",
+    "main.9defa59d.js.map": "/full-stack-fusion/static/js/main.9defa59d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8aac08b.css",
-    "static/js/main.912020c7.js"
+    "static/css/main.2fe95743.css",
+    "static/js/main.9defa59d.js"
   ]
 }

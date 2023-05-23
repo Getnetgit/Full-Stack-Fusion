@@ -8,7 +8,20 @@ const Navigation = ({ activeSection, onSectionChange }) => {
   const handleNavToggle = () => {
     setIsNavOpen(!isNavOpen);
   };
-
+  const activLinkStyle = {
+    border: '1px solid #00b4d8',
+    borderRadius: '4px',
+    background: 'none',
+    cursor: 'pointer',
+    color: '#00b4d8'
+  };
+  
+  const inactiveLinkStyle = {
+    border: 'none', 
+    background: 'none', 
+    cursor: 'pointer',
+    color:'#00b4d8'
+  };
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light bg-transparent">
       <button
@@ -24,8 +37,8 @@ const Navigation = ({ activeSection, onSectionChange }) => {
             <li key={page} className="nav-item">
               <button
                 onClick={() => onSectionChange(page)}
-                className={`nav-link ${activeSection === page ? 'active' : ''}`}
-                style={{ border: 'none', background: 'none', cursor: 'pointer',color:'#00b4d8' }}
+                //className={`nav-link ${activeSection === page ? 'active' : ''}`}
+                style={activeSection === page ? activLinkStyle : inactiveLinkStyle}
               >
                 {page}
               </button>

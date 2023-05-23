@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import PortfolioHeader from './PortfolioHeader';
+import PortfolioHeader from './Header';
 import AboutMe from './pages/AboutMe';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
-import PotrfolioFooter from './PortfolioFooter';
+import PotrfolioFooter from './Footer';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const PortfolioContainer = () => {
