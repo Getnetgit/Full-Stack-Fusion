@@ -1,6 +1,6 @@
 {"name": "full-stack-fusion-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://getnetgit.github.io/full-stack-fusion-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
