@@ -13,7 +13,7 @@ The goal of this project is to build a portfolio based on a user story provided 
 The website will have a header which contains navigation links to different part of contents which are "about me" , "Portfolio" , "Contact" and "Resume". 
 
 ## Usage
-When portfolio is loaded developer name is presented on the header along with navigation links to "About Me" , " Portfolio" , "Contact" and "Resume". When each links are clicked it leads to corosponding section. A recent photo of the developer will be presented on "About me " section. Pictures of applecations are presented at "work" section. When hovering on each pictures it grows by 5% and it leads to to application in new tab when clicked(Currently it only leads to pdf link). The site is responsive to different screen size.
+When portfolio is loaded using [this link](https://getnetgit.github.io/full-stack-fusion/), then developer name will be presented on the header along with navigation links to "About Me" , " Portfolio" , "Contact" and "Resume". When each links are clicked it leads to corosponding section. A recent photo of the developer will be presented on "About me " section. Pictures of applecations are presented at "work" section. When hovering on each pictures it grows by 5% and it leads to to application in new tab when clicked(Currently it only leads to pdf link). The site is responsive to different screen size.
 
 [This demo vedio](assets/videos/Demo_Video.webm) shows the web application's appearance and functionality:
 
