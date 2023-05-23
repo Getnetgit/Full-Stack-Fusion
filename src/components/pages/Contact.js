@@ -98,7 +98,6 @@ const Contact = () => {
   };
 
   const submitButtonStyle = {
-    backgroundColor: 'blue',
     color: '#00b4d8',
     padding: '8px 16px',
     border: 'none',

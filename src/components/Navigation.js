@@ -4,10 +4,7 @@ import React, { useState } from 'react';
 const Navigation = ({ activeSection, onSectionChange }) => {
   const [isNavOpen, setIsNavOpen] = useState(false);
   const pages = ['About Me', 'Portfolio', 'Contact', 'Resume'];
-  const navStyle = {
-    background: 'transparent',
-    color:'#00b4d8'
-  };
+  
   const handleNavToggle = () => {
     setIsNavOpen(!isNavOpen);
   };

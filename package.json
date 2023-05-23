@@ -1,8 +1,7 @@
-{
-  "name": "portfolio-app",
+{"name": "full-stack-fusion-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://getnetgit.github.io/portfolio-app",
+  "private": false,
+  "homepage": "https://getnetgit.github.io/full-stack-fusion-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
@@ -24,7 +23,10 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
   },
   "browserslist": {
     "production": [
