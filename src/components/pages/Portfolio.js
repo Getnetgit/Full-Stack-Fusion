@@ -4,6 +4,7 @@ import Project from './Project';
 import sendNews from '../../assets/pictures/1.PNG';
 import PlentifulPantryProfile from '../../assets/pictures/Plentiful-Pantry_Profile.png';
 import techBlog from '../../assets/pictures/Tech-blog-homePage.png';
+import rustyBucket from '../../assets/pictures/Rusty-Bucket-App.png';
 const Portfolio = () => {
   return (
     <section id="Portfolio" style={{ padding: '20px', background: '#f8f1e5', borderRadius: '10px', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)', border: '2px solid #00b4d8' }}>
@@ -36,7 +37,15 @@ const Portfolio = () => {
             backgroundImage={techBlog}
           />
         </div>
-    
+        <div className="col-lg-3 col-md-4 col-sm-6">
+          <Project
+            title="Rusty Bucket"
+            description="MERN/Material UI"
+            demoLink="https://four-rusty-bucket.herokuapp.com/"
+            repoLink="https://github.com/JeanSuw/Rusty-Bucket"
+            backgroundImage={rustyBucket}
+          />
+        </div>
        
       </div>
     </section>
